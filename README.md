@@ -42,9 +42,3 @@ The `NLP_CustomerSatisfaction` project uses Natural Language Processing (NLP) to
   - Macro Average: Precision: 0.92, Recall: 0.67, F1-score: 0.73
   - Weighted Average: Precision: 0.94, Recall: 0.94, F1-score: 0.93
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/NLP_CustomerSatisfaction.git
-cd NLP_CustomerSatisfaction
-pip install -r requirements.txt
