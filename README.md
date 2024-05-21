@@ -1,5 +1,4 @@
-# NLP_CustomerSatisfaction# NLP Customer Satisfaction
-
+# NLP_CustomerSatisfaction
 ## Project Overview
 The `NLP_CustomerSatisfaction` project uses Natural Language Processing (NLP) to analyze customer sentiments from reviews. This project aims to predict customer satisfaction levels effectively using machine learning techniques.
 
